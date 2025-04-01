@@ -77,8 +77,8 @@ To add, remove, or modify menu items, update the `lib/window/titlebarMenus.ts` f
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/firestuff-org/simple-electron-template.git
-cd simple-electron-template
+git clone https://github.com/firestuff-org/Simple-Electron-All-in-One-Template.git
+cd Simple-Electron-All-in-One-Template
 ```
 
 ### 2️⃣ Install Dependencies
